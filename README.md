@@ -10,6 +10,13 @@
 ### About me
 Eu sou desenvolvedor {frontend} 
 
+- Atualmente estudo HTML, CSS e JavaScript
+<div style="display: inline">
+  <img width="50"  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+</div>
+
 - [Cursos](https://cursos.alura.com.br/user/thiestud) 👨🏼‍🏫 - São cursos técnicos em diversas tecnologias, como HTML, CSS e JavaScript.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)

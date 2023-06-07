@@ -17,8 +17,9 @@ Eu sou desenvolvedor {frontend}
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
 
-- [Cursos](https://cursos.alura.com.br/user/thiestud) 👨🏼‍🏫 - São cursos técnicos em diversas tecnologias, como HTML, CSS e JavaScript.
+- [Cursos](https://cursos.alura.com.br/user/thiestud) 👨🏼‍🏫 - São cursos técnicos em diversas tecnologias.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagogab&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
